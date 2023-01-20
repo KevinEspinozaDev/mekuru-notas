@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MekuruNotas",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
